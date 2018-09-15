@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Palanichami\\AndroidStudioProjects\\HelloIOIO\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml_accessory_filter.xml.flat",
+        "source": "C:\\Users\\Palanichami\\.gradle\\caches\\transforms-1\\files-1.1\\IOIOLibAndroidAccessory-5.07.aar\\598ebb771d5f4878df32e15c7eda4829\\res\\xml\\accessory_filter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Palanichami\\AndroidStudioProjects\\HelloIOIO\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml_device_filter.xml.flat",
+        "source": "C:\\Users\\Palanichami\\.gradle\\caches\\transforms-1\\files-1.1\\IOIOLibAndroidDevice-5.07.aar\\86f14bf32c73d1178706ff82f05ef59e\\res\\xml\\device_filter.xml"
+    }
+]

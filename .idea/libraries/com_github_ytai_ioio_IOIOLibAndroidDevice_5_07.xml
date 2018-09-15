@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.github.ytai.ioio:IOIOLibAndroidDevice-5.07">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/IOIOLibAndroidDevice-5.07.aar/86f14bf32c73d1178706ff82f05ef59e/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/IOIOLibAndroidDevice-5.07.aar/86f14bf32c73d1178706ff82f05ef59e/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

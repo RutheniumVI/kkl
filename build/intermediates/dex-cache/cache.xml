@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Palanichami\.gradle\caches\transforms-1\files-1.1\IOIOLibAndroidAccessory-5.07.aar\598ebb771d5f4878df32e15c7eda4829\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="3"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e70120231d632313bd764c5ac45da1d87c6acd7">
+        <dex dex="C:\Users\Palanichami\AndroidStudioProjects\HelloIOIO\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Palanichami\.gradle\caches\transforms-1\files-1.1\IOIOLibAndroidDevice-5.07.aar\86f14bf32c73d1178706ff82f05ef59e\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="3"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9ad262bc3131b4f369d6c13240ec9cfac6278732">
+        <dex dex="C:\Users\Palanichami\AndroidStudioProjects\HelloIOIO\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Palanichami\.gradle\caches\transforms-1\files-1.1\IOIOLibAndroidBluetooth-5.07.aar\2563051263ca5e1f2e735848b3cfd1c2\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="3"
+        optimize="true"
+        revision="26.0.2"
+        sha1="86d0c1118daa9f0f67304864c4603d1c55092461">
+        <dex dex="C:\Users\Palanichami\AndroidStudioProjects\HelloIOIO\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Palanichami\.gradle\caches\transforms-1\files-1.1\IOIOLibAndroid-5.07.aar\a8a63767efa8d0804d10590a20eae640\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="3"
+        optimize="true"
+        revision="26.0.2"
+        sha1="560f73c668e2dc95526f06d9a684fad99867f01b">
+        <dex dex="C:\Users\Palanichami\AndroidStudioProjects\HelloIOIO\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Palanichami\.gradle\caches\modules-2\files-2.1\com.github.ytai.ioio\IOIOLibCore\5.07\34f07b578c6819579415ddbfc6c418c6008f7ef2\IOIOLibCore-5.07.jar"
+        jumboMode="false"
+        min-sdk-version="3"
+        optimize="true"
+        revision="26.0.2"
+        sha1="34f07b578c6819579415ddbfc6c418c6008f7ef2">
+        <dex dex="C:\Users\Palanichami\AndroidStudioProjects\HelloIOIO\build\intermediates\transforms\preDex\release\5.jar" />
+    </item>
+
+</items>

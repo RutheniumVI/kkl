@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Palanichami\\AndroidStudioProjects\\HelloIOIO\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Palanichami\\AndroidStudioProjects\\HelloIOIO\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,5,4,2",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "107,201,155,55",
+                        "endColumns": "47,41,45,51",
+                        "endOffsets": "150,238,196,102"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,103,145,191",
+                        "endColumns": "47,41,45,51",
+                        "endOffsets": "98,140,186,238"
+                    }
+                }
+            ]
+        }
+    ]
+}
